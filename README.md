@@ -7,7 +7,15 @@ This webpage presents the complementary material of the paper *Domain Specific L
 ### Abstract 
 Generic and specific solutions can be applied to all branches of science and engineering. While a generic approach provides a general solution for many problems in a certain area, although this solution may be suboptimal, a specific approach provides a much better solution for a smaller set of problems. DSLs, specific solutions, are means of simplify the software development process. DSLs can be classified as internal, written in a host language, or external, separate languages which bring their own syntax. An external DSL needs a language, compiler or interpreter, and an editor to support the new language. It also can be displayed in a visual and/or textual notation. Although the correct selection of notations need to be done in order to maximize those advantages, the software engineering field has a lack of a body of empirical evidence that supports such selection. This study aims to evaluate the effects of DSL on software development using software product lines. This study proposes to implement a textual and a visual DSL for the Conference Management and the Smart Home Domains, using legacy product lines and integrating the DSL development with Software Product Line Engineering. We conducted two studies. An exploratory study with the system’s original developers to validate our DSL and characterizing barriers and benefits to software development using DSL and an empirical study to compare the textual and the visual DSL regarding readability, effectiveness, efficiency, and ease of use. Visual notation had better performance when reporting bugs, while the textual notation is faster when changing DSL programs. Regarding the participants’ sense of success in completing the activities, the report of bugs using the textual notation had a better outcome than they expected. 
 
-Keywords: Domain Specific Language, Workbench, Empirical evaluation, Software Product Line, Dynamic Software Product Line
+Keywords: Domain Specific Language, Workbench, Empirical evaluation, Software Product Line, Dynamic Software Product 
+
+# DSLs repositories
+- <a href=“https://github.com/Aniz/formDSL”>**form**</a>
+- <a href=“https://github.com/Aniz/vForm”>**vform**</a>
+- <a href=“https://github.com/Aniz/EvDSL”>**Ev**</a>
+- <a href=“https://github.com/Aniz/visualEv”>**vEv**</a>
+- <a href=“https://github.com/Aniz/ShDSL”>**ShomeDSL**</a>
+- <a href=“https://github.com/Aniz/visualSh”>**vShomeDSL**</a>
 
 # Exploratory Study Questions
 
