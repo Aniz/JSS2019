@@ -132,23 +132,20 @@ and have properties.
 
 ## Taxonomy of the errors in the Domain Specific Languages
 
-1.  Elements with the same name
-a) Same Property on the same Element
-b) Duplicated Elements
+1.  Elements with the same name <br> a) Same Property on the same Element <br> b) Duplicated Elements
 
-2.  <span>Relationship Errors</span><br> a) Relations with wrong types of
-    Elements, Wrong Element or Relation Type b) Duplicated Relationships
+2.  Relationship Errors<br> a) Relations with wrong types of
+    Elements, Wrong Element or Relation Type <br> b) Duplicated Relationships
 
-3.  <span>Inheritance Errors</span> a) Cycles in the inheritance
-    Relationships b) Properties with the same name in the child and
+3.  Inheritance Errors <br> a) Cycles in the inheritance
+    Relationships <br> b) Properties with the same name in the child and
     father elements.
 
-4.  <span>Missing Errors</span> a) Element is missing a Property b)
-    Element is missing a mandatory Relationship c) Element is missing a
+4.  Missing Errors<br> a) Element is missing a Property <br> b)
+    Element is missing a mandatory Relationship <br> c) Element is missing a
     Property of a Relationship
 
-5.  <span>Declaration Errors</span> a) Element is not declared b)
+5.  Declaration Errors<br> a) Element is not declared <br> b)
     Property of a Relationship is not declared
 
-6.  <span>Other errors</span>
-
+6.  Other errors
