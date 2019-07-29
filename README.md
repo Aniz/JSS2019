@@ -200,7 +200,7 @@ Program examples of the created DSLs.
 
 **Visual program using vForm**
 
-## vForm Proggram
+## vForm Program
 
 ![vForm visual
 program<span label="vForm-program"></span>](imgs/vform.png)
