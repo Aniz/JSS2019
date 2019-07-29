@@ -152,4 +152,50 @@ and have properties.
 
 6.  <span>Other errors</span>
 
+# DSL’s program examples
+
+Program examples of the created DSLs.
+
+## (v)Form
+
+**Textual program using Form**
+
+    Create Account
+      
+        add text Name required; 
+    
+        add comboBox Interests 
+        options: Area5
+            Area1
+            Area2
+            Area3
+            Area4;
+            
+        add email Email; 
+    
+        add select CivilStatus 
+        options: Divorced
+            Single
+            Maried;
+            
+        add textarea Bio; 
+    
+        add date Birthday; 
+    
+        add radio Genre 
+        options:    Male
+            Female;
+            
+        add check SendMeNotifications; 
+    
+        add integer Age; 
+    
+        add file Photo; 
+
+**Visual program using vForm**
+
+## vForm Proggram
+
+![vForm visual
+program<span label="vForm-program"></span>](imgs/vform.png)
 
